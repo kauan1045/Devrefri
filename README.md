@@ -1,8 +1,8 @@
-##🍹 Dev Refri
+##🍹 Dev Refri##
 
 Bem-vindo ao Dev Refri, um site divertido que combina refrescância e design! Aqui você encontra três sabores incríveis de refrigerante: Laranja, Abacate e Morango.
 
-##🍊 Sabores
+##🍊 Sabores##
 
 Laranja – Refrescante e vibrante, perfeito para dar energia ao seu dia.
 
@@ -10,7 +10,7 @@ Abacate – Cremoso e diferente, um sabor único para os mais ousados.
 
 Morango – Doce e saboroso, ideal para quem ama um clássico.
 
-##🎨 Sobre o Site
+##🎨 Sobre o Site##
 
 O site foi desenvolvido com HTML e CSS, com foco em:
 
